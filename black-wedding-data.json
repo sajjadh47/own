@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "image": "/images/dummy2.jpg",
+    "image": "/src/assets/images/dummy2.jpg",
     "category": "photographer",
     "topRated": true,
     "title": "Glacier Wedding Films",
@@ -11,7 +11,7 @@
   },
   {
     "id": 2,
-    "image": "/images/card_image2.png",
+    "image": "/src/assets/images/card_image2.png",
     "category": "drink",
     "title": "Glacier Wedding Films",
     "topRated": false,
@@ -21,7 +21,7 @@
   },
   {
     "id": 3,
-    "image": "/images/card_image3.png",
+    "image": "/src/assets/images/card_image3.png",
     "category": "dj",
     "title": "Glacier Wedding Films",
     "topRated": false,
@@ -31,7 +31,7 @@
   },
   {
     "id": 4,
-    "image": "/images/card_image4.png",
+    "image": "/src/assets/images/card_image4.png",
     "category": "venue",
     "title": "Glacier Wedding Films",
     "topRated": true,
@@ -41,7 +41,7 @@
   },
   {
     "id": 1,
-    "image": "/images/card_image1.png",
+    "image": "/src/assets/images/card_image1.png",
     "category": "photographer",
     "topRated": false,
     "title": "Glacier Wedding Films",
@@ -51,7 +51,7 @@
   },
   {
     "id": 2,
-    "image": "/images/card_image2.png",
+    "image": "/src/assets/images/card_image2.png",
     "category": "drink",
     "title": "Glacier Wedding Films",
     "topRated": false,
@@ -61,7 +61,7 @@
   },
   {
     "id": 3,
-    "image": "/images/card_image3.png",
+    "image": "/src/assets/images/card_image3.png",
     "category": "dj",
     "title": "Glacier Wedding Films",
     "topRated": false,
@@ -71,7 +71,7 @@
   },
   {
     "id": 4,
-    "image": "/images/card_image4.png",
+    "image": "/src/assets/images/card_image4.png",
     "category": "venue",
     "title": "Glacier Wedding Films",
     "topRated": true,
@@ -81,7 +81,7 @@
   },
   {
     "id": 1,
-    "image": "/images/card_image1.png",
+    "image": "/src/assets/images/card_image1.png",
     "category": "photographer",
     "topRated": false,
     "title": "Glacier Wedding Films",
@@ -91,7 +91,7 @@
   },
   {
     "id": 2,
-    "image": "/images/card_image2.png",
+    "image": "/src/assets/images/card_image2.png",
     "category": "drink",
     "title": "Glacier Wedding Films",
     "topRated": false,
@@ -101,7 +101,7 @@
   },
   {
     "id": 3,
-    "image": "/images/card_image3.png",
+    "image": "/src/assets/images/card_image3.png",
     "category": "dj",
     "title": "Glacier Wedding Films",
     "topRated": false,
@@ -111,7 +111,7 @@
   },
   {
     "id": 4,
-    "image": "/images/card_image4.png",
+    "image": "/src/assets/images/card_image4.png",
     "category": "venue",
     "title": "Glacier Wedding Films",
     "topRated": true,
@@ -121,7 +121,7 @@
   },
   {
     "id": 1,
-    "image": "/images/card_image1.png",
+    "image": "/src/assets/images/card_image1.png",
     "category": "photographer",
     "topRated": false,
     "title": "Glacier Wedding Films",
@@ -131,7 +131,7 @@
   },
   {
     "id": 2,
-    "image": "/images/card_image2.png",
+    "image": "/src/assets/images/card_image2.png",
     "category": "drink",
     "title": "Glacier Wedding Films",
     "topRated": false,
@@ -141,7 +141,7 @@
   },
   {
     "id": 3,
-    "image": "/images/card_image3.png",
+    "image": "/src/assets/images/card_image3.png",
     "category": "dj",
     "title": "Glacier Wedding Films",
     "topRated": false,
@@ -151,7 +151,7 @@
   },
   {
     "id": 4,
-    "image": "/images/card_image4.png",
+    "image": "/src/assets/images/card_image4.png",
     "category": "venue",
     "title": "Glacier Wedding Films",
     "topRated": true,
@@ -161,7 +161,7 @@
   },
   {
     "id": 1,
-    "image": "/images/card_image1.png",
+    "image": "/src/assets/images/card_image1.png",
     "category": "photographer",
     "topRated": false,
     "title": "Glacier Wedding Films",
@@ -171,7 +171,7 @@
   },
   {
     "id": 2,
-    "image": "/images/card_image2.png",
+    "image": "/src/assets/images/card_image2.png",
     "category": "drink",
     "title": "Glacier Wedding Films",
     "topRated": false,
@@ -181,7 +181,7 @@
   },
   {
     "id": 3,
-    "image": "/images/card_image3.png",
+    "image": "/src/assets/images/card_image3.png",
     "category": "dj",
     "title": "Glacier Wedding Films",
     "topRated": false,
@@ -191,7 +191,7 @@
   },
   {
     "id": 4,
-    "image": "/images/card_image4.png",
+    "image": "/src/assets/images/card_image4.png",
     "category": "venue",
     "title": "Glacier Wedding Films",
     "topRated": true,
@@ -201,7 +201,7 @@
   },
   {
     "id": 4,
-    "image": "/images/card_image4.png",
+    "image": "/src/assets/images/card_image4.png",
     "category": "flower",
     "title": "Glacier Wedding Films",
     "topRated": true,
@@ -211,7 +211,7 @@
   },
   {
     "id": 4,
-    "image": "/images/card_image4.png",
+    "image": "/src/assets/images/card_image4.png",
     "category": "catering",
     "title": "Glacier Wedding Films",
     "topRated": true,
