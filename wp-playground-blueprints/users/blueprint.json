@@ -1,0 +1,20 @@
+{
+	"$schema": "https://playground.wordpress.net/blueprint-schema.json",
+	"meta": {
+		"title": "Thousands of Users Test Site",
+		"description": "A WordPress Playground site preloaded with thousands of users for testing.",
+		"author": "sajjad47"
+	},
+	"landingPage": "/wp-admin/users.php",
+	"steps": [
+		{
+			"step": "login",
+			"username": "admin",
+			"password": "password"
+		},
+		{
+			"step": "runPHP",
+			"code": "<?php include '/wordpress/wp-load.php'; $count = 1000; $roles = array( 'subscriber', 'editor', 'author', 'contributor' ); $domain = 'example.com'; for ( $i = 1; $i <= $count; $i++ ) { $role = $roles[ array_rand( $roles ) ]; $username = $role . $i; $email = $role . $i . '@' . $domain; $password = wp_generate_password( 12, false ); if ( ! username_exists( $username ) && ! email_exists( $email ) ) { wp_create_user( $username, $password, $email ); $user = get_user_by( 'login', $username ); $user->set_role( $role ); } }"
+		}
+	]
+}
